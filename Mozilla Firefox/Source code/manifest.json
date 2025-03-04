@@ -1,7 +1,12 @@
 {
-  "name": "Docjava darkmode!",
-  "description": "Turns the webpage into a darkmode version..\nProgram by Guacamoleboy",
+  "name": "Docjava dark mode!",
+  "description": "Turns the webpage into a dark mode version..\nProgram by Guacamoleboy",
   "version": "1.0",
+  "browser_specific_settings": {
+  "gecko": {
+    "id": "cph-jl325@cphbusiness.dk"
+  }
+},
   "manifest_version": 3,
     "icons": {
       "16": "images/16.png",
