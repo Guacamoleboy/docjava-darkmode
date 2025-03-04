@@ -11,4 +11,16 @@ After this... Simply follow the guide below:
 Now click and open the folder darkmode-version and select that for upload. 
 You're now in darkmode version every time you open docjava.dk!
 
+_________________________________________
+
+After
+
+![Visuals](/images/after.jpg)
+
+_________________________________________
+
+Before
+
+![Visuals](/images/before.jpg)
+
 **Author: Guacamoleboy / CPHJL325**
