@@ -1,0 +1,17 @@
+{
+  "name": "Docjava darkmode!",
+  "description": "Turns the webpage into a darkmode version..\nProgram by Guacamoleboy",
+  "version": "1.0",
+  "manifest_version": 3,
+    "icons": {
+      "16": "images/16.png",
+      "48": "images/48.png",
+      "128": "images/128.png"
+    },
+  "content_scripts": [
+    {
+      "matches": ["http://www.docjava.dk/*"],
+      "css": ["scripts/guac.css"]
+    }
+  ]
+}
