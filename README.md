@@ -21,6 +21,17 @@ Untill then a local temp file can be added by using the about:debugging tool.
 
 _________________________________________
 
+How to install on **Opera**:
+
+Locate your "extensions" tab and click it.
+
+![Visuals](/images/opera.jpg)
+
+Now click and open the folder Opera and select that for upload. 
+Done...
+
+_________________________________________
+
 After
 
 ![Visuals](/images/after.jpg)
