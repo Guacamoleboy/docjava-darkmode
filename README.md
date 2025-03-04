@@ -4,6 +4,8 @@ How to install on Chrome:
 
 Locate your "extensions" tab and click it.
 
+After this... Simply follow the image below:
+
 ![Visuals](/images/how-to.jpg)
 
 Now click and open the folder darkmode-version and select that for upload. 
