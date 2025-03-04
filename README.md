@@ -1,4 +1,4 @@
-# Darkmode extension of Docjava.dk
+# Dark mode extension of Docjava.dk
 
 How to install on **Chrome**:
 
@@ -8,17 +8,16 @@ After this... Simply follow the guide below:
 
 ![Visuals](/images/how-to.jpg)
 
-Now click and open the folder darkmode-version and select that for upload. 
-You're now in darkmode version every time you open docjava.dk!
+Now click and open the folder Chrome and select that for upload. 
+You're now in dark mode version every time you open docjava.dk!
 
 _________________________________________
 
 How to install on **Firefox**:
 
-Go to "more tools" and select "Remote debugging". Now Press the "This Firefox" tab and continue the setup..
+**Waiting for approval from Firefox Devs to be added to the Extension-store**
 
-![Visuals](/images/moz1.jpg)
-![Visuals](/images/moz2.jpg)
+Untill then a local temp file can be added by using the about:debugging tool.
 
 _________________________________________
 
