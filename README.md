@@ -32,4 +32,10 @@ Before
 
 ![Visuals](/images/before.jpg)
 
+_________________________________________
+
+**Changes**
+
+Darkmode, extension support & font updates to it's easier to read the website.
+
 **Author: Guacamoleboy / CPHJL325**
