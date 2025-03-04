@@ -15,10 +15,7 @@ _________________________________________
 
 How to install on **Firefox**:
 
-Go to "more tools" and select "Remote debugging". Now Press the "This Firefox" tab and continue the setup..
-
-![Visuals](/images/moz1.jpg)
-![Visuals](/images/moz2.jpg)
+**Waiting for approval from Firefox Devs to be added to the Extension-store**
 
 _________________________________________
 
