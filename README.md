@@ -17,8 +17,8 @@ How to install on **Firefox**:
 
 Go to "more tools" and select "Remote debugging". Now Press the "This Firefox" tab and continue the setup..
 
-![Visuals](/images/moz1.png)
-![Visuals](/images/moz2.png)
+![Visuals](/images/moz1.jpg)
+![Visuals](/images/moz2.jpg)
 
 _________________________________________
 
