@@ -17,6 +17,8 @@ How to install on **Firefox**:
 
 **Waiting for approval from Firefox Devs to be added to the Extension-store**
 
+Untill then a local temp file can be added by using the about:debugging tool.
+
 _________________________________________
 
 After
