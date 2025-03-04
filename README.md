@@ -1,6 +1,6 @@
 # Darkmode extension of Docjava.dk
 
-How to install on Chrome:
+How to install on **Chrome**:
 
 Locate your "extensions" tab and click it.
 
