@@ -13,6 +13,15 @@ You're now in darkmode version every time you open docjava.dk!
 
 _________________________________________
 
+How to install on **Firefox**:
+
+Go to "more tools" and select "Remote debugging". Now Press the "This Firefox" tab and continue the setup..
+
+![Visuals](/images/moz1.jpg)
+![Visuals](/images/moz2.jpg)
+
+_________________________________________
+
 After
 
 ![Visuals](/images/after.jpg)
