@@ -8,7 +8,7 @@ After this... Simply follow the guide below:
 
 ![Visuals](/images/how-to.jpg)
 
-Now click and open the folder darkmode-version and select that for upload. 
+Now click and open the folder Chrome and select that for upload. 
 You're now in dark mode version every time you open docjava.dk!
 
 _________________________________________
