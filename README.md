@@ -4,7 +4,7 @@ How to install on Chrome:
 
 Locate your "extensions" tab and click it.
 
-After this... Simply follow the image below:
+After this... Simply follow the guide below:
 
 ![Visuals](/images/how-to.jpg)
 
