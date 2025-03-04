@@ -1,4 +1,4 @@
-# Darkmode extension of Docjava.dk
+# Dark mode extension of Docjava.dk
 
 How to install on **Chrome**:
 
