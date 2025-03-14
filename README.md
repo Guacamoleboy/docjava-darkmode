@@ -44,13 +44,13 @@ _________________________________________
 
 After (NTU)
 
-![Visuals](/images/1.jpg)
+![Visuals](/images/2.jpg)
 
 _________________________________________
 
 Before (NTU)
 
-![Visuals](/images/2.jpg)
+![Visuals](/images/1.jpg)
 
 _________________________________________
 
