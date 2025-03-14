@@ -1,4 +1,4 @@
-# Dark mode extension of Docjava.dk
+# Dark mode extension of Docjava.dk & NTU
 
 How to install on **Chrome**:
 
@@ -30,20 +30,33 @@ Done...
 
 _________________________________________
 
-After
+After (Docjava)
 
 ![Visuals](/images/after.jpg)
 
 _________________________________________
 
-Before
+Before (Docjava)
 
 ![Visuals](/images/before.jpg)
+
+_________________________________________
+
+After (NTU)
+
+![Visuals](/images/1.jpg)
+
+_________________________________________
+
+Before (NTU)
+
+![Visuals](/images/2.jpg)
 
 _________________________________________
 
 **Changes**
 
 Darkmode, extension support & font updates to it's easier to read the website.
+Added support for NTU.
 
 **Author: Guacamoleboy / CPHJL325**
